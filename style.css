@@ -1,0 +1,36 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav-name{
+
+    color: #304438 !important;
+    font-weight: 900;
+    font-size: 28px;
+    margin-left: 70px;
+
+}
+
+.nav-item{
+    font-size: 10px;
+}
+
+.navbar-nav{
+    margin: 0 0 0 70px;
+}
+
+.btn{
+    background-color: #304438 !important;
+    color: white;
+    margin: 0 70px 0 0;
+    
+}
+
+.hero{
+    /* background-image: ; */
+    padding: 50px 0 0 120px;
+}
+
+.hero h4{
+    font-weight: 12px;
+}

@@ -88,3 +88,175 @@ body{
     margin: 14px 0 0 30px;
 }
 
+
+.secondbtn{
+    background-color: white;
+    color: #304438;
+    width: 190px;
+    height: 40px;
+    border: 1px solid #304438;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+.banners{
+    margin: 100px 0 0 0;
+}
+
+.image{
+    height: 380px;
+    width: 450px;
+    margin: 0 630px 0 0;
+}
+
+.text{
+    background-color: lightgrey;
+    height: 470px;
+    width: 570px;
+    padding: 120px 0 0 100px;
+    margin: -400px 0 0 450px !important;
+    text-align: start;
+}
+
+.para{
+    font-size: 20px;
+    
+}
+
+.second-text{
+    background-color: #304438;
+    height: 440px;
+    width: 530px;
+    padding: 120px 0 0 100px;
+    margin: -50px 0 50px 0;
+    text-align: start;
+    color: white;
+}
+
+.second-image{
+   margin: -620px 0 0 390px !important;
+   height: 360px;
+   width: 490px;
+}
+
+.money{
+    font-size: 10px;
+}
+
+
+.third-text{
+    background-color: lightgrey;
+    height: 470px;
+    width: 570px;
+    padding: 120px 0 0 100px;
+    margin: -400px 0 0 450px !important;
+    text-align: start;
+   
+}
+
+.third-image{
+    height: 380px;
+    width: 450px;
+    margin: 0 630px 0 0;
+}
+
+.banner-2{
+    margin: -150px 0 0 0;
+}
+
+.tablediv{
+    margin-top: 50px;
+    padding: 80px;
+    background-color: lightgray;
+   
+    
+}
+
+.textline{
+    font-size: 15px;
+    text-align: start;
+    color: rgba(128, 128, 128, 0.503);
+}
+
+#check{
+    color: black;
+    font-size: 15px;
+}
+
+.rollyy{
+    font-size: 13px;
+    color: #304438;
+}
+
+#h5{
+    font-size: 13px;
+    color: #304438;
+}
+
+#h3{
+    color: #304438;
+}
+
+.col4{
+    display: flex;
+    padding-inline: 170px;
+
+}
+
+.col4 h5{
+    font-size: 14px;
+    color: #304438;
+}
+
+.col4 h3{
+    font-size: 14px;
+    color: #304438;
+}
+
+#h5h{
+    font-size: 15px;
+    color: #304438;
+}
+
+#join200{
+    color: #304438;
+}
+
+.btnstar{
+    background-color: white;
+    color: #304438;
+    width: 190px;
+    height: 40px;
+    border: 3px solid #304438;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+.madame{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: azure;
+    padding: 50px;
+}
+
+.madame1{
+    text-align: start;
+}
+
+.containimages{
+    background-color: #304438;
+    color: white;
+    padding: 25px;
+}
+
+#h3-1{
+    font-size: 15px;
+}
+
+.questions{
+    background-color:;
+}
+.col-lg-6{
+    text-align: start;
+   
+}
